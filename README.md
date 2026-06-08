@@ -1,8 +1,12 @@
-# 100Hires Portfolio Task: Setup Documentation
+# 100Hires Portfolio Task
 
-This is my submission for stage one of the 100Hires Junior Growth Marketing Specialist application. The task: install some new tools, set up a GitHub repo, and document the journey.
+This repo is my portfolio project for the 100Hires Junior Growth Marketing Specialist application. It has two stages: a tool setup task (stage 1) and a research project (stage 2). Both are documented below.
 
-## Tools I installed
+## Stage 1: Setup
+
+The task: install some new tools, set up a GitHub repo, and document the journey.
+
+### Tools I installed
 
 | Tool | Purpose | Source |
 |------|---------|--------|
@@ -12,7 +16,7 @@ This is my submission for stage one of the 100Hires Junior Growth Marketing Spec
 | GitHub Desktop | App for managing GitHub without using the terminal | desktop.github.com |
 | GitHub account | Hosting this repo (`amrutha02-star`) | github.com |
 
-## Steps I completed
+### Steps I completed
 
 1. Installed Cursor IDE on macOS.
 2. Opened the Extensions panel inside Cursor and installed the official Claude Code extension by Anthropic. (I later learnt that Cmd + Shift + X is the keyboard shortcut for opening Extensions.) 
@@ -25,7 +29,7 @@ This is my submission for stage one of the 100Hires Junior Growth Marketing Spec
 9. Replaced the placeholder README with this document.
 10. Committed and pushed the changes back to GitHub.
 
-## Issues I ran into and how I fixed them
+### Issues I ran into and how I fixed them
 
 **1. Forty-nine results when I searched "Claude Code" in extensions.**
 I wasn't sure which one was the real one. I figured out the official extension by checking three things: the publisher name (Anthropic), a blue verified checkmark next to the publisher, and the highest download count (17M). The other 48 are third-party tools by independent developers.
@@ -42,8 +46,40 @@ A small popup at the bottom of Cursor asked if I wanted to install `code` and `c
 **5. GitHub Desktop only offered "Open in Visual Studio Code".**
 There was no button for Cursor. I opened the folder manually inside Cursor through File then Open Folder, which worked the same way.
 
-## Notes
+### Notes
 
 I had previously used Claude Code (the chat version) to create videos with HyperFrames, so I was already familiar with how conversational AI coding tools work. Cursor, the Cursor extensions, GitHub, and Markdown were all new for this task.
 
 I used Claude (the chat version) throughout the process as a teacher. I asked it what unfamiliar things meant, why errors were happening, and how concepts like commit and push actually work. I drafted this README with its help, then edited it so it sounds like me and reflects what I actually did. Every decision was mine: which extensions to trust, which folder to use, what to include here.
+
+## Stage 2: Research Project
+
+For stage 2 I built a research project on one topic: cold outreach pipeline for B2B SaaS. I picked this because it is a mature space with a lot of real practitioners, and it overlaps with my own work selling a B2B SaaS product, so I can usually tell whether someone's advice is practical or just theory.
+
+The goal was to find genuine practitioners (people who actually run outbound, not just write about it), collect their recent content, and organize it so it could support a real playbook later.
+
+### How the repo is organized
+
+- research/sources.md: the list of experts with links, dates, and short notes
+- research/linkedin-posts/: saved posts, one folder per author
+- research/youtube-transcripts/: saved transcripts, one folder per author
+- research/other/: space for any extra material
+
+### Experts collected so far
+
+Still in progress, working toward 10, one at a time. I add someone only after I have reviewed their actual content, and I try to make each person cover a different part of the pipeline so the set does not repeat the same advice.
+
+1. Mark Colgan: outbound systems, account selection, AI-assisted research
+2. Jason Bay: cold email frameworks and outbound execution
+3. Nick Abraham: deliverability and sending infrastructure (agency, high-volume angle)
+4. Josh Braun: cold email messaging and copywriting, quality-first
+
+### How I collected the content
+
+YouTube transcripts: I used an open source tool called youtube-transcript-api to pull transcripts. It fetches the captions YouTube already generates for a video, so it does not need an API key. My first attempts went through Codex and failed, because Codex runs in the cloud and YouTube blocks requests from datacenter IP addresses. I fixed this by running the tool locally on my own Mac, which uses a normal home connection, so YouTube treats it like a regular viewer. Each transcript is saved as a clean Markdown file with the source link and the date it was fetched.
+
+LinkedIn posts: LinkedIn blocks automated scraping, so I collected posts manually. I checked the text against the original post before saving, since automated extraction sometimes drops or changes words.
+
+### A note on AI use
+
+Same as stage 1, I used Claude as an assistant to research, fetch transcripts, and draft notes. I reviewed and approved every expert and every piece of content myself, and I verified the LinkedIn post text against the originals.
