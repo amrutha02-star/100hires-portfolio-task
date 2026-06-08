@@ -1,7 +1,6 @@
 # $5M in SaaS Revenue Without Cold Emails: Dreamdata's Social Selling Strategy
 
 Source: https://www.youtube.com/watch?v=JydQ20uo9Y8
-Channel: Edbound with Kinner
 Published: 27 January 2026
 Transcript fetched: 2026-06-09
 Caption segments: 1323

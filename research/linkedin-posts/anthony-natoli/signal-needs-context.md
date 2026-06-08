@@ -2,6 +2,7 @@
 
 Author: Anthony Natoli
 Source: https://www.linkedin.com/posts/anthony-natoli_outbound-is-not-dead-most-people-are-just-activity-7458177020452192256-avci
+Published: May 7, 2026
 Date checked: June 2026
 
 ---

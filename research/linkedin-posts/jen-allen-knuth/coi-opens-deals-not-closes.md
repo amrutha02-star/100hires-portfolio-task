@@ -1,7 +1,8 @@
 # Cost of inaction opens deals, it does not close them
 
 Author: Jen Allen-Knuth
-Source: https://www.linkedin.com/in/demandjen1
+Source: https://www.linkedin.com/posts/demandjen1_cost-of-inaction-coi-isnt-best-used-to-activity-7409260573252841472-Jr0q
+Published: approx. January 2026 (about five months old when checked)
 Date checked: June 2026
 
 ---

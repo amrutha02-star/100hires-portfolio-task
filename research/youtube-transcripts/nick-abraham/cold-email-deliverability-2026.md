@@ -1,6 +1,7 @@
 # Cold Email Deliverability in 2026: The New Rules
 
 Source: https://www.youtube.com/watch?v=h2j0gFz9RH4
+Published: approx. March 2026 (about three months old when checked)
 Transcript fetched: 2026-06-08
 Caption segments: 499
 
