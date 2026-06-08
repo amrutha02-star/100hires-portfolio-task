@@ -10,17 +10,17 @@ How do B2B SaaS teams build cold outreach pipelines that create qualified replie
 
 Each expert owns a different stage of the same pipeline. Read in order, the ten pieces form a rough end-to-end playbook for cold outreach in B2B SaaS:
 
-1. Pick the right accounts — Mark Colgan (account selection as the biggest lever, data quality, where AI actually helps)
-2. Build the qualified list — Jan Brochwicz (the ICP matrix: firmographics, technographics, account-fit signals, awareness level, disqualifiers, persona mapping — structuring the list before anything is sent)
-3. Turn a signal into a real reason to reach out — Anthony Natoli (the problem behind the funding round or new hire, not the signal itself)
+1. Pick the right accounts: Mark Colgan (account selection as the biggest lever, data quality, where AI actually helps)
+2. Build the qualified list: Jan Brochwicz (the ICP matrix of firmographics, technographics, account-fit signals, awareness level, disqualifiers, and persona mapping, used to structure the list before anything is sent)
+3. Turn a signal into a real reason to reach out: Anthony Natoli (the problem behind the funding round or new hire, not the signal itself)
 4. Reach out on the right channel:
-   - Cold email — Jason Bay (frameworks drawn from 85M+ emails)
-   - The phone — Kevin Hopp (permission-based openers; most calls should not convert on the spot)
-   - LinkedIn and social selling — Laura Erdem (built pipeline through social, not cold email)
-5. Write messages that earn a reply — Josh Braun (neutral questions instead of pointing out problems; stay useful on follow-up)
-6. Audit the sequence before it sends — Petr Kaliuzhny (sequence quality control from the receiving end: formatting, fake personalization, unrelatable proof, jargon, ICP mismatch in the copy, and follow-ups that earn the reply instead of filling space)
-7. Make sure the email actually lands — Nick Abraham (deliverability and sending infrastructure; the high-volume agency counterpoint to the rest of the set)
-8. Turn the reply into a qualified opportunity — Jen Allen-Knuth (cost of inaction; discovery that opens deals rather than closes them)
+   - Cold email: Jason Bay (frameworks drawn from 85M+ emails)
+   - The phone: Kevin Hopp (permission-based openers; most calls should not convert on the spot)
+   - LinkedIn and social selling: Laura Erdem (built pipeline through social, not cold email)
+5. Write messages that earn a reply: Josh Braun (neutral questions instead of pointing out problems; stay useful on follow-up)
+6. Audit the sequence before it sends: Petr Kaliuzhny (sequence quality control from the receiving end, covering formatting, fake personalization, unrelatable proof, jargon, ICP mismatch in the copy, and follow-ups that earn the reply instead of filling space)
+7. Make sure the email actually lands: Nick Abraham (deliverability and sending infrastructure; the high-volume agency counterpoint to the rest of the set)
+8. Turn the reply into a qualified opportunity: Jen Allen-Knuth (cost of inaction; discovery that opens deals rather than closes them)
 
 ## Experts and sources
 
@@ -287,21 +287,21 @@ a layer the set already covers, or it did not meet the recency and substance bar
 Coverage over numbers: a tenth voice that repeats an existing one does not help a
 real playbook.
 
-- John Barrows — overlaps Kevin Hopp's phone layer.
-- David Priemer — overlaps Jen Allen-Knuth's discovery and qualification layer.
-- Mike Groeneveld — overlaps Jen Allen-Knuth's discovery layer (SPIN critique).
-- Samantha McKenna — overlaps Laura Erdem's LinkedIn and social selling layer.
-- Olga Bondareva — overlaps Laura Erdem's LinkedIn and social selling layer.
-- Austin Hughes — overlaps Anthony Natoli's signal layer, and the piece was about a
+- John Barrows: overlaps Kevin Hopp's phone layer.
+- David Priemer: overlaps Jen Allen-Knuth's discovery and qualification layer.
+- Mike Groeneveld: overlaps Jen Allen-Knuth's discovery layer (SPIN critique).
+- Samantha McKenna: overlaps Laura Erdem's LinkedIn and social selling layer.
+- Olga Bondareva: overlaps Laura Erdem's LinkedIn and social selling layer.
+- Austin Hughes: overlaps Anthony Natoli's signal layer, and the piece was about a
   year old, outside the recency window.
-- Leslie Venetz — credible, but the recent content reviewed was principle-level
+- Leslie Venetz: credible, but the recent content reviewed was principle-level
   rather than the step-by-step substance the set looks for, and the stronger pieces
   were too old to justify overriding the recency rule.
-- Eric Nowoslawski — high-volume sending (millions of emails a month), off the
-  quality-first thesis; Nick Abraham already serves as the single honest
+- Eric Nowoslawski: high-volume sending (millions of emails a month), off the
+  quality-first thesis. Nick Abraham already serves as the single honest
   high-volume counterpoint.
-- Mike Gallardo — credible (Sales Director at Deel) and the multichannel cadence
+- Mike Gallardo: credible (Sales Director at Deel) and the multichannel cadence
   layer he covers is a genuine gap, but the specific recent post was a light
   tactical listicle ending in a newsletter call to action, below the substance bar
-  the rest of the set holds. Left the cadence layer uncovered rather than fill it
+  the rest of the set holds. I left the cadence layer uncovered rather than fill it
   with a weaker piece.
