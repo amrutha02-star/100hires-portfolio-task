@@ -1,3 +1,5 @@
+# Audit your own sequence before it sends
+
 Author: Petr Kaliuzhny
 Source: https://www.linkedin.com/posts/kaliuzhnypeter_heres-what-people-who-sell-outbound-for-activity-7462411999054921728-5Dha
 Published: May 19, 2026 (about three weeks old when checked)
