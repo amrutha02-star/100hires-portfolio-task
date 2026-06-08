@@ -78,9 +78,9 @@ June 2026
 Brief annotation:
 Josh Braun has run cold outreach into enterprise accounts for years and
 teaches a quality-first, non-pushy style. The content reviewed covers
-writing emails that get a reply, using neutral questions instead of
-pointing out problems, and following up by staying useful rather than
-checking in.
+writing emails that get a reply, overcoming prospect resistance, using
+neutral questions instead of pointing out problems, and following up by
+staying useful rather than checking in.
 
 Relevant part of the pipeline:
 Cold email messaging and copywriting, follow-up, response rates.
@@ -89,4 +89,4 @@ Content collected:
 - LinkedIn post saved in research/linkedin-posts/josh-braun/stay-useful-follow-up.md
 - LinkedIn post saved in research/linkedin-posts/josh-braun/neutral-questions-open-doors.md
 - YouTube transcript saved in research/youtube-transcripts/josh-braun/cold-emails-that-get-responses.md
-- YouTube transcript saved in research/youtube-transcripts/josh-braun/writing-a-good-cold-email.md
+- YouTube transcript saved in research/youtube-transcripts/josh-braun/overcome-prospect-resistance-4t.md
