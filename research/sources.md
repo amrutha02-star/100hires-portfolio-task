@@ -54,11 +54,11 @@ Date checked:
 June 2026
 
 Brief annotation:
-Nick Abraham runs Leadbird, a cold email lead generation agency, and
-manages over 100,000 sending accounts, so he is a genuine deliverability
-practitioner. The video reviewed covers sending infrastructure, warm-up,
-DNS and header checks, list hygiene, and send timing, from an agency
-high-volume angle rather than low-volume quality-first outreach.
+Nick Abraham is relevant for email deliverability and sending infrastructure.
+He runs Leadbird, a cold email agency managing over 100,000 sending accounts,
+so this is a real practitioner view. The video reviewed covers warm-up, DNS and
+header checks, list hygiene, and send timing, from a high-volume agency angle
+rather than low-volume quality-first outreach.
 
 Relevant part of the pipeline:
 Email deliverability and inbox placement, sending infrastructure, list hygiene.
@@ -76,11 +76,11 @@ Date checked:
 June 2026
 
 Brief annotation:
-Josh Braun has run cold outreach into enterprise accounts for years and
-teaches a quality-first, non-pushy style. The content reviewed covers
-writing emails that get a reply, overcoming prospect resistance, using
-neutral questions instead of pointing out problems, and following up by
-staying useful rather than checking in.
+Josh Braun is relevant for cold email messaging and copywriting. He has run
+cold outreach into enterprise accounts for years and teaches a quality-first,
+non-pushy style. The content reviewed covers writing emails that get a reply,
+overcoming prospect resistance, using neutral questions instead of pointing
+out problems, and following up by staying useful rather than checking in.
 
 Relevant part of the pipeline:
 Cold email messaging and copywriting, follow-up, response rates.
@@ -101,11 +101,11 @@ Date checked:
 June 2026
 
 Brief annotation:
-Leslie Venetz spent over 15 years in outbound sales roles and now runs the
-Sales-Led GTM Agency and wrote a book on building pipeline. The content reviewed
-argues most teams still run 2011 spray-and-pray playbooks, and covers territory
-strategy, account segmentation for relevant micro-campaigns, and earning the
-right to make an ask before selling.
+Leslie Venetz is relevant for outbound strategy and GTM. She spent over 15 years
+in outbound sales roles, runs the Sales-Led GTM Agency, and wrote a book on
+building pipeline. The content reviewed argues most teams still run 2011
+spray-and-pray playbooks, and covers territory strategy, account segmentation
+for relevant micro-campaigns, and earning the right to make an ask before selling.
 
 Relevant part of the pipeline:
 Outbound strategy and GTM, territory and account targeting, buyer-centered messaging.

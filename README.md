@@ -67,18 +67,32 @@ The goal was to find genuine practitioners (people who actually run outbound, no
 
 ### Experts collected so far
 
-Still in progress, working toward 10, one at a time. I add someone only after I have reviewed their actual content, and I try to make each person cover a different part of the pipeline so the set does not repeat the same advice.
+Still in progress, working toward 10, one at a time. I add someone only after I've reviewed their actual content, and I try to make each person cover a different part of the pipeline so the set doesn't repeat the same advice.
 
 1. Mark Colgan: outbound systems, account selection, AI-assisted research
 2. Jason Bay: cold email frameworks and outbound execution
 3. Nick Abraham: deliverability and sending infrastructure (agency, high-volume angle)
 4. Josh Braun: cold email messaging and copywriting, quality-first
+5. Leslie Venetz: outbound strategy and GTM, territory and account targeting
 
 ### How I collected the content
 
-YouTube transcripts: I used an open source tool called youtube-transcript-api to pull transcripts. It fetches the captions YouTube already generates for a video, so it does not need an API key. My first attempts went through Codex and failed, because Codex runs in the cloud and YouTube blocks requests from datacenter IP addresses. I fixed this by running the tool locally on my own Mac, which uses a normal home connection, so YouTube treats it like a regular viewer. Each transcript is saved as a clean Markdown file with the source link and the date it was fetched.
+YouTube transcripts: I used an open source tool called youtube-transcript-api to pull transcripts. It fetches the captions YouTube already generates for a video, so it doesn't need an API key. My first attempts went through Codex and failed, because Codex runs in the cloud and YouTube blocks requests from datacenter IP addresses. I fixed this by running the tool locally on my own Mac, which uses a normal home connection, so YouTube treats it like a regular viewer. Each transcript is saved as a clean Markdown file with the source link and the date it was fetched.
 
 LinkedIn posts: LinkedIn blocks automated scraping, so I collected posts manually. I checked the text against the original post before saving, since automated extraction sometimes drops or changes words.
+
+### Decisions I made and what I learned
+
+A few choices shaped the project, and I want to be open about why I made them.
+
+- Recent over famous. Alex asked for recent posts, so when one of Josh Braun's videos turned out to be from late 2023, I swapped it for a 2024 one on the same topic. Someone being well known is not enough if the actual post or video is old.
+- I kept the honest bits in. Nick Abraham works from a high-volume agency side, which is different from the careful, low-volume style most of the others teach. Instead of hiding that, I wrote it into his notes. I want the set to show a real range of views, not pretend everyone agrees.
+- Coverage over numbers. I add experts one at a time, and only when they cover a part of the pipeline the others don't already cover (strategy, frameworks, deliverability, copywriting, account targeting). Five people who each say something different help more for a real playbook than ten who repeat each other.
+- Cleaning up transcripts without changing the words. Some YouTube captions come with no punctuation, so a raw transcript reads as one giant block. I had the tool split those into paragraphs based on the timing of the captions. It only adds breaks to make it readable, it never changes the actual words, so the source stays true to what was said.
+- Check the saved text against the real post. When I pulled LinkedIn posts automatically, the tool sometimes dropped or changed a few words. So I read every saved post against the live one before I commit it.
+- Picked a topic I can judge. I chose cold outreach for B2B SaaS because I sell a B2B SaaS product myself, so I can usually tell whether someone's advice is practical or just theory. On a topic I knew nothing about, I would not be able to pick the right experts as well.
+- Real practitioners, not just people who write about it. Before adding anyone, I checked they actually run outbound. I went through each person's LinkedIn and YouTube feeds, often more than once, to see how often they post, what they post about, and whether it is relevant to this project, and then I picked the one post or video that fit best. That is how Nick Abraham went in as the founder of a cold email agency and Leslie Venetz as someone who spent over 15 years in outbound and wrote a book on it, instead of me just trusting a name.
+- Built one small tool I can reuse. The transcript script saves every file with the source link and the date I pulled it, so anyone can trace it back, and I can use the same tool for the next expert without setting it up again.
 
 ### A note on AI use
 
