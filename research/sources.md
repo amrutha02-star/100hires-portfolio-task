@@ -24,7 +24,7 @@ Relevant part of the pipeline:
 Account selection, outbound channels, cold calling, AI-assisted research, data quality, pipeline.
 
 Content collected:
-- LinkedIn post saved in research/linkedin-posts/mark-colgan/outbound-best-practices.md
+- LinkedIn post saved in [research/linkedin-posts/mark-colgan/outbound-best-practices.md](linkedin-posts/mark-colgan/outbound-best-practices.md)
 
 ### Jason Bay
 
@@ -42,7 +42,7 @@ Relevant part of the pipeline:
 Cold email, outbound process, follow-up, booking meetings.
 
 Content collected:
-- YouTube transcript saved in research/youtube-transcripts/jason-bay/cold-email-85m-2025.md
+- YouTube transcript saved in [research/youtube-transcripts/jason-bay/cold-email-85m-2025.md](youtube-transcripts/jason-bay/cold-email-85m-2025.md)
 
 ### Nick Abraham
 
@@ -64,7 +64,7 @@ Relevant part of the pipeline:
 Email deliverability and inbox placement, sending infrastructure, list hygiene.
 
 Content collected:
-- YouTube transcript saved in research/youtube-transcripts/nick-abraham/cold-email-deliverability-2026.md
+- YouTube transcript saved in [research/youtube-transcripts/nick-abraham/cold-email-deliverability-2026.md](youtube-transcripts/nick-abraham/cold-email-deliverability-2026.md)
 
 ### Josh Braun
 
@@ -86,10 +86,10 @@ Relevant part of the pipeline:
 Cold email messaging and copywriting, follow-up, response rates.
 
 Content collected:
-- LinkedIn post saved in research/linkedin-posts/josh-braun/stay-useful-follow-up.md
-- LinkedIn post saved in research/linkedin-posts/josh-braun/neutral-questions-open-doors.md
-- YouTube transcript saved in research/youtube-transcripts/josh-braun/cold-emails-that-get-responses.md
-- YouTube transcript saved in research/youtube-transcripts/josh-braun/overcome-prospect-resistance-4t.md
+- LinkedIn post saved in [research/linkedin-posts/josh-braun/stay-useful-follow-up.md](linkedin-posts/josh-braun/stay-useful-follow-up.md)
+- LinkedIn post saved in [research/linkedin-posts/josh-braun/neutral-questions-open-doors.md](linkedin-posts/josh-braun/neutral-questions-open-doors.md)
+- YouTube transcript saved in [research/youtube-transcripts/josh-braun/cold-emails-that-get-responses.md](youtube-transcripts/josh-braun/cold-emails-that-get-responses.md)
+- YouTube transcript saved in [research/youtube-transcripts/josh-braun/overcome-prospect-resistance-4t.md](youtube-transcripts/josh-braun/overcome-prospect-resistance-4t.md)
 
 ### Leslie Venetz
 
@@ -111,5 +111,5 @@ Relevant part of the pipeline:
 Outbound strategy and GTM, territory and account targeting, buyer-centered messaging.
 
 Content collected:
-- LinkedIn post saved in research/linkedin-posts/leslie-venetz/account-segmentation-micro-campaigns.md
-- YouTube transcript saved in research/youtube-transcripts/leslie-venetz/fixing-broken-outbound-sales.md
+- LinkedIn post saved in [research/linkedin-posts/leslie-venetz/account-segmentation-micro-campaigns.md](linkedin-posts/leslie-venetz/account-segmentation-micro-campaigns.md)
+- YouTube transcript saved in [research/youtube-transcripts/leslie-venetz/fixing-broken-outbound-sales.md](youtube-transcripts/leslie-venetz/fixing-broken-outbound-sales.md)
