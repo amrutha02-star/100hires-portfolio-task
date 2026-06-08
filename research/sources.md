@@ -90,3 +90,26 @@ Content collected:
 - LinkedIn post saved in research/linkedin-posts/josh-braun/neutral-questions-open-doors.md
 - YouTube transcript saved in research/youtube-transcripts/josh-braun/cold-emails-that-get-responses.md
 - YouTube transcript saved in research/youtube-transcripts/josh-braun/overcome-prospect-resistance-4t.md
+
+### Leslie Venetz
+
+Main links:
+- LinkedIn: https://www.linkedin.com/in/leslievenetz
+- YouTube: https://www.youtube.com/watch?v=_YPJ1KKTU-Y
+
+Date checked:
+June 2026
+
+Brief annotation:
+Leslie Venetz spent over 15 years in outbound sales roles and now runs the
+Sales-Led GTM Agency and wrote a book on building pipeline. The content reviewed
+argues most teams still run 2011 spray-and-pray playbooks, and covers territory
+strategy, account segmentation for relevant micro-campaigns, and earning the
+right to make an ask before selling.
+
+Relevant part of the pipeline:
+Outbound strategy and GTM, territory and account targeting, buyer-centered messaging.
+
+Content collected:
+- LinkedIn post saved in research/linkedin-posts/leslie-venetz/account-segmentation-micro-campaigns.md
+- YouTube transcript saved in research/youtube-transcripts/leslie-venetz/fixing-broken-outbound-sales.md
