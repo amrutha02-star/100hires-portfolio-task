@@ -113,3 +113,31 @@ Cold calling and the phone channel, permission-based openers, call discipline.
 
 Content collected:
 - LinkedIn post saved in [research/linkedin-posts/kevin-hopp/most-calls-should-not-convert.md](linkedin-posts/kevin-hopp/most-calls-should-not-convert.md)
+
+### Laura Erdem
+
+Main links:
+- LinkedIn: https://www.linkedin.com/in/lerdem
+- YouTube: https://www.youtube.com/watch?v=JydQ20uo9Y8
+
+Date checked:
+June 2026
+
+Brief annotation:
+Laura Erdem is relevant for LinkedIn and social selling as an outbound channel.
+She runs sales at Dreamdata, a B2B SaaS company, and built close to $5M in
+revenue largely through LinkedIn, so this is a real practitioner view tied to
+B2B SaaS pipeline, not general LinkedIn content. The video reviewed covers
+defining exactly who you want to be relevant to (not chasing trends), using
+content to attract that audience, starting genuine one-to-one conversations in
+the DMs instead of opening with a demo ask, and using website intent signals to
+time outreach so it lands as warm rather than cold. This is a quality-first take
+on the LinkedIn channel, which fits the rest of the set. I picked this video
+over a second Laura interview that leaned into marketing attribution rather than
+outbound, since only this one clearly connects social selling to pipeline.
+
+Relevant part of the pipeline:
+LinkedIn and social selling, signal-based outreach timing, warm outbound.
+
+Content collected:
+- YouTube transcript saved in [research/youtube-transcripts/laura-erdem/social-selling-5m-no-cold-email.md](youtube-transcripts/laura-erdem/social-selling-5m-no-cold-email.md)
