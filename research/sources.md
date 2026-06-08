@@ -6,6 +6,10 @@ Topic: Cold outreach pipeline for B2B SaaS
 
 How do B2B SaaS teams build cold outreach pipelines that create qualified replies and sales opportunities without relying on spammy volume?
 
+## Scope
+
+This set covers the outbound pipeline from picking accounts through to turning a reply into a qualified opportunity. Later stages like objection handling, demos, negotiation, closing, and anything post-sale are out of scope on purpose, since the project is about cold outreach, not the full sales cycle.
+
 ## How the experts map to the pipeline
 
 Each expert owns a different stage of the same pipeline. Read in order, the ten pieces form a rough end-to-end playbook for cold outreach in B2B SaaS:
@@ -262,15 +266,14 @@ defaults, fake personalization, proof the reader cannot map to themselves, jargo
 ICP mismatch in the copy, and break-up emails that add nothing, then closes with a
 tight checklist (read your own sequence, pick a premise that is not true of
 everyone, use proof they see themselves in, drop the jargon, match the ICP or do
-not send, and make every follow-up earn the reply). This sits right next to Josh
-Braun: Josh owns the craft of writing a single non-pushy message and following up
-by staying useful, while Petr owns auditing the whole sequence against the
-recipient. The follow-up point overlaps Josh's, and that overlap is acknowledged
-rather than hidden; the rest (formatting, proof, jargon, ICP fit in the copy) is
-broader sequence QA that none of the others cover. He is connected to an outbound
-software vendor, but this specific post is not a product demo and quotes no
-GetSales.io results, so the method is transferable. It is a quality-first take that
-fits the rest of the set.
+not send, and make every follow-up earn the reply). Petr and Josh Braun sit next
+to each other but do different jobs: Josh writes the single message, Petr audits
+the whole sequence against the recipient before and after it goes out. They each
+touch follow-up from a different angle, and the rest of Petr's checklist
+(formatting, proof, jargon, ICP fit in the copy) is sequence-level quality control
+that none of the others cover. He is connected to an outbound software vendor, but
+this specific post is not a product demo and quotes no GetSales.io results, so the
+method is transferable. It is a quality-first take that fits the rest of the set.
 
 Relevant part of the pipeline:
 Outbound sequence quality control and self-audit, personalization quality, proof,
