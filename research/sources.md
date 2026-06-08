@@ -88,28 +88,28 @@ Cold email messaging and copywriting, follow-up, response rates.
 Content collected:
 - LinkedIn post saved in [research/linkedin-posts/josh-braun/stay-useful-follow-up.md](linkedin-posts/josh-braun/stay-useful-follow-up.md)
 - LinkedIn post saved in [research/linkedin-posts/josh-braun/neutral-questions-open-doors.md](linkedin-posts/josh-braun/neutral-questions-open-doors.md)
-- YouTube transcript saved in [research/youtube-transcripts/josh-braun/cold-emails-that-get-responses.md](youtube-transcripts/josh-braun/cold-emails-that-get-responses.md)
 - YouTube transcript saved in [research/youtube-transcripts/josh-braun/overcome-prospect-resistance-4t.md](youtube-transcripts/josh-braun/overcome-prospect-resistance-4t.md)
 
-### Leslie Venetz
+### Kevin Hopp
 
 Main links:
-- LinkedIn: https://www.linkedin.com/in/leslievenetz
-- YouTube: https://www.youtube.com/watch?v=_YPJ1KKTU-Y
+- LinkedIn: https://www.linkedin.com/in/khopp
+- YouTube: https://www.youtube.com/@KevinHopp
 
 Date checked:
 June 2026
 
 Brief annotation:
-Leslie Venetz is relevant for outbound strategy and GTM. She spent over 15 years
-in outbound sales roles, runs the Sales-Led GTM Agency, and wrote a book on
-building pipeline. The content reviewed argues most teams still run 2011
-spray-and-pray playbooks, and covers territory strategy, account segmentation
-for relevant micro-campaigns, and earning the right to make an ask before selling.
+Kevin Hopp is relevant for cold calling and the phone channel. He runs cold
+calling at SmartBound and has made hundreds of thousands of cold calls himself,
+so this is a real practitioner view. The post reviewed is his most recent one
+and covers his "hottest take": most cold calls should not turn into a
+conversation right then, why forcing one creates "false negatives", why
+permission-based openers are a necessity, and being sensitive to the prospect's
+time. This is a quality-first take on the phone, which fits the rest of the set.
 
 Relevant part of the pipeline:
-Outbound strategy and GTM, territory and account targeting, buyer-centered messaging.
+Cold calling and the phone channel, permission-based openers, call discipline.
 
 Content collected:
-- LinkedIn post saved in [research/linkedin-posts/leslie-venetz/account-segmentation-micro-campaigns.md](linkedin-posts/leslie-venetz/account-segmentation-micro-campaigns.md)
-- YouTube transcript saved in [research/youtube-transcripts/leslie-venetz/fixing-broken-outbound-sales.md](youtube-transcripts/leslie-venetz/fixing-broken-outbound-sales.md)
+- LinkedIn post saved in [research/linkedin-posts/kevin-hopp/most-calls-should-not-convert.md](linkedin-posts/kevin-hopp/most-calls-should-not-convert.md)
