@@ -1,1 +1,6 @@
 .DS_Store
+
+# stray media accidentally dropped into the repo
+*.mp4
+*.mov
+*.webm
