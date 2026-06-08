@@ -76,6 +76,7 @@ Still in progress, working toward 10, one at a time. I add someone only after I'
 5. Kevin Hopp: cold calling and the phone channel, permission-based openers
 6. Laura Erdem: LinkedIn and social selling tied to B2B SaaS pipeline
 7. Jen Allen-Knuth: discovery and qualification, cost of inaction
+8. Anthony Natoli: signal-based prospecting, turning a signal into real context
 
 ### How I collected the content
 

@@ -172,3 +172,30 @@ disqualifying deals that are not real.
 Content collected:
 - LinkedIn post saved in [research/linkedin-posts/jen-allen-knuth/coi-not-cost-of-doing-nothing.md](linkedin-posts/jen-allen-knuth/coi-not-cost-of-doing-nothing.md)
 - LinkedIn post saved in [research/linkedin-posts/jen-allen-knuth/coi-opens-deals-not-closes.md](linkedin-posts/jen-allen-knuth/coi-opens-deals-not-closes.md)
+
+### Anthony Natoli
+
+Main links:
+- LinkedIn: https://www.linkedin.com/in/anthony-natoli
+
+Date checked:
+June 2026
+
+Brief annotation:
+Anthony Natoli is relevant for signal-based prospecting, specifically how a rep
+turns a signal into a real reason to reach out. He is a Senior Account Executive
+at LinkedIn, so this is a working-rep view, not theory. The post reviewed argues
+that having a signal or intent is not enough: a funding round, a new hire, or a
+product launch is not by itself a reason to reach out, and most "signal-based"
+outbound is just AI slop dressed up as personalization. What works is connecting
+the signal to the actual problem behind it (why the raise, what a new role owns,
+what moving upmarket creates) and matching it to problems your existing customers
+share. This is the human-context step between account selection and outreach, and
+it is a quality-first take that fits the rest of the set without repeating it.
+
+Relevant part of the pipeline:
+Signal-based prospecting, intent interpretation, adding human context before
+outreach, the bridge between account selection and the first touch.
+
+Content collected:
+- LinkedIn post saved in [research/linkedin-posts/anthony-natoli/signal-needs-context.md](linkedin-posts/anthony-natoli/signal-needs-context.md)
