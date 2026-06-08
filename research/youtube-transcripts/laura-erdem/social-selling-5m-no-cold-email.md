@@ -2,7 +2,7 @@
 
 Source: https://www.youtube.com/watch?v=JydQ20uo9Y8
 Channel: Edbound with Kinner
-Published: 2025 (exact upload date not confirmed; content references Dreamdata at ~$5M revenue and active US/EU expansion, consistent with 2025)
+Published: 27 January 2026
 Transcript fetched: 2026-06-09
 Lines: 1323
 
