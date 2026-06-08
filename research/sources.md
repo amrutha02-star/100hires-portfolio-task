@@ -6,6 +6,20 @@ Topic: Cold outreach pipeline for B2B SaaS
 
 How do B2B SaaS teams build cold outreach pipelines that create qualified replies and sales opportunities without relying on spammy volume?
 
+## How the experts map to the pipeline
+
+Each expert owns a different stage of the same pipeline. Read in order, the eight pieces form a rough end-to-end playbook for cold outreach in B2B SaaS:
+
+1. Pick the right accounts — Mark Colgan (account selection as the biggest lever, data quality, where AI actually helps)
+2. Turn a signal into a real reason to reach out — Anthony Natoli (the problem behind the funding round or new hire, not the signal itself)
+3. Reach out on the right channel:
+   - Cold email — Jason Bay (frameworks drawn from 85M+ emails)
+   - The phone — Kevin Hopp (permission-based openers; most calls should not convert on the spot)
+   - LinkedIn and social selling — Laura Erdem (built pipeline through social, not cold email)
+4. Write messages that earn a reply — Josh Braun (neutral questions instead of pointing out problems; stay useful on follow-up)
+5. Make sure the email actually lands — Nick Abraham (deliverability and sending infrastructure; the high-volume agency counterpoint to the rest of the set)
+6. Turn the reply into a qualified opportunity — Jen Allen-Knuth (cost of inaction; discovery that opens deals rather than closes them)
+
 ## Experts and sources
 
 ### Mark Colgan

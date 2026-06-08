@@ -2,7 +2,7 @@
 
 Source: https://www.youtube.com/watch?v=yjOG_QOJgII
 Transcript fetched: 2026-06-08
-Lines: 1542
+Caption segments: 1542
 
 Today we're talking about cold email. Uh we did a big study, 85 million plus cold emails to find what's working in 2025. Uh we want to share it with you today. The way that today is going to work, if you haven't been on one of these shows before, we try to make this as interactive as possible. A lot of you are doing a great job of dropping things into the chat. If you have a specific question, we would love to answer it.
 

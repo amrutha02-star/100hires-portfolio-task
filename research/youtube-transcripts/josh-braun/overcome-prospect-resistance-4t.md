@@ -2,7 +2,7 @@
 
 Source: https://www.youtube.com/watch?v=9cKZVyAQ3mY
 Transcript fetched: 2026-06-08
-Lines: 239
+Caption segments: 239
 
 The only thing people care about is if you can shine a light on something that's going to hurt them that they don't know about. Now, we have to communicate this in a way. Imagine this scenario. Imagine if I sent you an email and you didn't know who I was and I said, "I'm the best sales trainer." Would you believe me? Probably not. Why?
 

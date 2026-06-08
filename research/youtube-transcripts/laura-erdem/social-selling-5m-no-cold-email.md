@@ -4,7 +4,7 @@ Source: https://www.youtube.com/watch?v=JydQ20uo9Y8
 Channel: Edbound with Kinner
 Published: 27 January 2026
 Transcript fetched: 2026-06-09
-Lines: 1323
+Caption segments: 1323
 
 Most of the times companies are only measuring when the lead came into their systems up until new business and they would say clients buy within 2 months. Our benchmarks say that that [music] for B2B SAS companies it takes 211 days for your prospect to go from >> to close new business. >> Have you experimented with similar educational content strategies? So, one of the best performing pieces of content for us that is actually gated is B2B [music] benchmarks. We did B2B benchmarks for LinkedIn ads, B2B benchmarks for Google ads and marketers are willing to give out their emails for that type of content because everybody wants to know am I performing comparing to the rest. How is market looking into this?
 

@@ -1,11 +1,10 @@
 # Outbound best practices from B2B SaaS companies
 
-Expert: Mark Colgan  
-Source: LinkedIn  
-Date collected: June 2026  
-Original post: https://www.linkedin.com/posts/outboundsalestech_outboundsales-b2bsales-salesstrategy-activity-7467175858944974848-TQ6P
+Author: Mark Colgan
+Source: https://www.linkedin.com/posts/outboundsalestech_outboundsales-b2bsales-salesstrategy-activity-7467175858944974848-TQ6P
+Date checked: June 2026
 
-## Post text
+---
 
 I've been collecting outbound best practices from leading B2B SaaS companies for the last few years.
 
@@ -34,6 +33,3 @@ This is pulled from ongoing research across company case studies, GTM practition
 I combine this with my own observations from working with 250+ B2B sales teams.
 
 I've put the full document together with detailed breakdowns for each of these. If you'd like a copy, send me a DM and I'll share the link.
-
-## Why this post is relevant
-This post is relevant because it is about outbound pipeline, not just general sales advice. It covers account selection, cold calling, email becoming harder, AI-assisted research, data quality, and meeting rates.

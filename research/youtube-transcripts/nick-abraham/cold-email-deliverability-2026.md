@@ -2,7 +2,7 @@
 
 Source: https://www.youtube.com/watch?v=h2j0gFz9RH4
 Transcript fetched: 2026-06-08
-Lines: 499
+Caption segments: 499
 
 What is going on guys? It has been over a year since I posted on this channel, but I'm back and I'm back and motivated to talk about managing deliverability in 2026 as that has been a pretty hot topic. And I'm more motivated because my good friend Eric has been posting twice a day and has motivated me to get off my lazy ass and start recording videos just like I did a few years back. So, let's talk about managing deliverability in 2026. So, in our SmartLad account, uh, I wrote all this out about a month ago. We had we had about 126,000 email accounts.
 
