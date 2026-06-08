@@ -3,7 +3,7 @@
 Author: Jan Brochwicz
 Source: https://www.linkedin.com/posts/janbrochwicz_if-your-icp-is-b2b-saas-100-500-employees-activity-7444305826334277632-oQpZ
 Published: March 30, 2026 (about ten weeks old when checked)
-Date checked: June 2026
+Date checked: 8 and 9 June 2026 (IST)
 
 ---
 

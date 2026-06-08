@@ -3,7 +3,7 @@
 Author: Kevin Hopp
 Source: https://www.linkedin.com/posts/khopp_coldcalling-outbound-coldcall-activity-7468728252216487936-LOIW
 Published: approx. June 2026 (a few days old when checked)
-Date checked: June 2026
+Date checked: 8 and 9 June 2026 (IST)
 
 ---
 

@@ -3,7 +3,7 @@
 Author: Mark Colgan
 Source: https://www.linkedin.com/posts/outboundsalestech_outboundsales-b2bsales-salesstrategy-activity-7467175858944974848-TQ6P
 Published: approx. June 2026 (about a week old when checked)
-Date checked: June 2026
+Date checked: 8 and 9 June 2026 (IST)
 
 ---
 
