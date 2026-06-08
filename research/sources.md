@@ -13,12 +13,12 @@ Each expert owns a different stage of the same pipeline. Read in order, the ten 
 1. Pick the right accounts — Mark Colgan (account selection as the biggest lever, data quality, where AI actually helps)
 2. Build the qualified list — Jan Brochwicz (the ICP matrix: firmographics, technographics, account-fit signals, awareness level, disqualifiers, persona mapping — structuring the list before anything is sent)
 3. Turn a signal into a real reason to reach out — Anthony Natoli (the problem behind the funding round or new hire, not the signal itself)
-4. Design the multichannel cadence — Mike Gallardo (how email, phone, and social fit into one sequence; the orchestration layer that the individual channels below live inside)
-5. Reach out on the right channel:
+4. Reach out on the right channel:
    - Cold email — Jason Bay (frameworks drawn from 85M+ emails)
    - The phone — Kevin Hopp (permission-based openers; most calls should not convert on the spot)
    - LinkedIn and social selling — Laura Erdem (built pipeline through social, not cold email)
-6. Write messages that earn a reply — Josh Braun (neutral questions instead of pointing out problems; stay useful on follow-up)
+5. Write messages that earn a reply — Josh Braun (neutral questions instead of pointing out problems; stay useful on follow-up)
+6. Audit the sequence before it sends — Petr Kaliuzhny (sequence quality control from the receiving end: formatting, fake personalization, unrelatable proof, jargon, ICP mismatch in the copy, and follow-ups that earn the reply instead of filling space)
 7. Make sure the email actually lands — Nick Abraham (deliverability and sending infrastructure; the high-volume agency counterpoint to the rest of the set)
 8. Turn the reply into a qualified opportunity — Jen Allen-Knuth (cost of inaction; discovery that opens deals rather than closes them)
 
@@ -244,36 +244,40 @@ signal-based qualification, disqualification, persona mapping.
 Content collected:
 - LinkedIn post saved in [research/linkedin-posts/jan-brochwicz/icp-matrix-list-building.md](linkedin-posts/jan-brochwicz/icp-matrix-list-building.md)
 
-### Mike Gallardo
+### Petr Kaliuzhny
 
 Main links:
-- LinkedIn: https://www.linkedin.com/in/mike-gallardo-62a55b29/
+- LinkedIn: https://www.linkedin.com/in/kaliuzhnypeter/
 
 Date checked:
 June 2026
 
 Brief annotation:
-Mike Gallardo is relevant for multichannel sequencing, the step that orchestrates
-email, phone, and social into one cadence rather than treating each channel
-separately. He is a Sales Director at Deel, a B2B SaaS company, so this is a
-working-practitioner view. The post reviewed lays out a six-step sequence
-structure: two value props, a same-day "triple tap" across email, phone, and
-social, a capped number of cold emails ("quality over quantity"), cold calls, a
-break-up email, and ongoing LinkedIn engagement. This is the lightest piece in the
-set and reads more like a tactical listicle than the longer-form takes elsewhere,
-and it ends with a newsletter call to action. Its "triple tap to break the noise"
-leans more aggressive than the careful, low-volume style most of the others teach,
-so it is kept honestly as the cadence-design view, not as another quality-first
-purist. The numbering in the original post skips step 4, and that quirk is
-preserved verbatim. No other expert in the set owns how the channels fit together
-into a single sequence, which is why it is included.
+Petr Kaliuzhny is relevant for outbound sequence quality control, the self-audit
+that catches what goes wrong inside a sequence before and after it sends. He is at
+GetSales.io, an outbound software company, and the post is written from the
+receiving end: he breaks down the real outbound that landed in his own inbox from
+people who sell outbound for a living. It covers formatting left on automation
+defaults, fake personalization, proof the reader cannot map to themselves, jargon,
+ICP mismatch in the copy, and break-up emails that add nothing, then closes with a
+tight checklist (read your own sequence, pick a premise that is not true of
+everyone, use proof they see themselves in, drop the jargon, match the ICP or do
+not send, and make every follow-up earn the reply). This sits right next to Josh
+Braun: Josh owns the craft of writing a single non-pushy message and following up
+by staying useful, while Petr owns auditing the whole sequence against the
+recipient. The follow-up point overlaps Josh's, and that overlap is acknowledged
+rather than hidden; the rest (formatting, proof, jargon, ICP fit in the copy) is
+broader sequence QA that none of the others cover. He is connected to an outbound
+software vendor, but this specific post is not a product demo and quotes no
+GetSales.io results, so the method is transferable. It is a quality-first take that
+fits the rest of the set.
 
 Relevant part of the pipeline:
-Multichannel sequencing and cadence design, channel orchestration, follow-up and
-break-up structure.
+Outbound sequence quality control and self-audit, personalization quality, proof,
+jargon, ICP fit in the message, follow-up and break-up discipline.
 
 Content collected:
-- LinkedIn post saved in [research/linkedin-posts/mike-gallardo/multichannel-sequence-structure.md](linkedin-posts/mike-gallardo/multichannel-sequence-structure.md)
+- LinkedIn post saved in [research/linkedin-posts/petr-kaliuzhny/sequence-quality-control.md](linkedin-posts/petr-kaliuzhny/sequence-quality-control.md)
 
 ## Candidates considered but not included
 
@@ -296,3 +300,8 @@ real playbook.
 - Eric Nowoslawski — high-volume sending (millions of emails a month), off the
   quality-first thesis; Nick Abraham already serves as the single honest
   high-volume counterpoint.
+- Mike Gallardo — credible (Sales Director at Deel) and the multichannel cadence
+  layer he covers is a genuine gap, but the specific recent post was a light
+  tactical listicle ending in a newsletter call to action, below the substance bar
+  the rest of the set holds. Left the cadence layer uncovered rather than fill it
+  with a weaker piece.
