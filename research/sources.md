@@ -8,17 +8,19 @@ How do B2B SaaS teams build cold outreach pipelines that create qualified replie
 
 ## How the experts map to the pipeline
 
-Each expert owns a different stage of the same pipeline. Read in order, the eight pieces form a rough end-to-end playbook for cold outreach in B2B SaaS:
+Each expert owns a different stage of the same pipeline. Read in order, the ten pieces form a rough end-to-end playbook for cold outreach in B2B SaaS:
 
 1. Pick the right accounts — Mark Colgan (account selection as the biggest lever, data quality, where AI actually helps)
-2. Turn a signal into a real reason to reach out — Anthony Natoli (the problem behind the funding round or new hire, not the signal itself)
-3. Reach out on the right channel:
+2. Build the qualified list — Jan Brochwicz (the ICP matrix: firmographics, technographics, account-fit signals, awareness level, disqualifiers, persona mapping — structuring the list before anything is sent)
+3. Turn a signal into a real reason to reach out — Anthony Natoli (the problem behind the funding round or new hire, not the signal itself)
+4. Design the multichannel cadence — Mike Gallardo (how email, phone, and social fit into one sequence; the orchestration layer that the individual channels below live inside)
+5. Reach out on the right channel:
    - Cold email — Jason Bay (frameworks drawn from 85M+ emails)
    - The phone — Kevin Hopp (permission-based openers; most calls should not convert on the spot)
    - LinkedIn and social selling — Laura Erdem (built pipeline through social, not cold email)
-4. Write messages that earn a reply — Josh Braun (neutral questions instead of pointing out problems; stay useful on follow-up)
-5. Make sure the email actually lands — Nick Abraham (deliverability and sending infrastructure; the high-volume agency counterpoint to the rest of the set)
-6. Turn the reply into a qualified opportunity — Jen Allen-Knuth (cost of inaction; discovery that opens deals rather than closes them)
+6. Write messages that earn a reply — Josh Braun (neutral questions instead of pointing out problems; stay useful on follow-up)
+7. Make sure the email actually lands — Nick Abraham (deliverability and sending infrastructure; the high-volume agency counterpoint to the rest of the set)
+8. Turn the reply into a qualified opportunity — Jen Allen-Knuth (cost of inaction; discovery that opens deals rather than closes them)
 
 ## Experts and sources
 
@@ -212,3 +214,85 @@ outreach, the bridge between account selection and the first touch.
 
 Content collected:
 - LinkedIn post saved in [research/linkedin-posts/anthony-natoli/signal-needs-context.md](linkedin-posts/anthony-natoli/signal-needs-context.md)
+
+### Jan Brochwicz
+
+Main links:
+- LinkedIn: https://www.linkedin.com/in/janbrochwicz/
+
+Date checked:
+June 2026
+
+Brief annotation:
+Jan Brochwicz is relevant for precision list-building, the step that structures a
+qualified outbound list before anything is sent. He is a GTM Engineer at
+Workflows.io and builds an ICP matrix for clients before their sequences go live,
+so this is a real practitioner view. The post reviewed argues that "B2B SaaS,
+100-500 employees, US-based" is a filter, not an ICP, and lays out a six-layer
+matrix: firmographics, technographics, account-fit signals (hiring, website,
+expansion), awareness level, disqualifying criteria, and persona mapping. It names
+specific tools and his own company, but the method itself is transferable and not
+a product demo. This is a distinct layer: Mark Colgan owns account selection at a
+systems level and Anthony Natoli owns interpreting a single signal, while Jan owns
+how the list itself is built and segmented. It is a quality-first take that fits
+the rest of the set without repeating it.
+
+Relevant part of the pipeline:
+Precision list-building, ICP definition and segmentation, technographic and
+signal-based qualification, disqualification, persona mapping.
+
+Content collected:
+- LinkedIn post saved in [research/linkedin-posts/jan-brochwicz/icp-matrix-list-building.md](linkedin-posts/jan-brochwicz/icp-matrix-list-building.md)
+
+### Mike Gallardo
+
+Main links:
+- LinkedIn: https://www.linkedin.com/in/mike-gallardo-62a55b29/
+
+Date checked:
+June 2026
+
+Brief annotation:
+Mike Gallardo is relevant for multichannel sequencing, the step that orchestrates
+email, phone, and social into one cadence rather than treating each channel
+separately. He is a Sales Director at Deel, a B2B SaaS company, so this is a
+working-practitioner view. The post reviewed lays out a six-step sequence
+structure: two value props, a same-day "triple tap" across email, phone, and
+social, a capped number of cold emails ("quality over quantity"), cold calls, a
+break-up email, and ongoing LinkedIn engagement. This is the lightest piece in the
+set and reads more like a tactical listicle than the longer-form takes elsewhere,
+and it ends with a newsletter call to action. Its "triple tap to break the noise"
+leans more aggressive than the careful, low-volume style most of the others teach,
+so it is kept honestly as the cadence-design view, not as another quality-first
+purist. The numbering in the original post skips step 4, and that quirk is
+preserved verbatim. No other expert in the set owns how the channels fit together
+into a single sequence, which is why it is included.
+
+Relevant part of the pipeline:
+Multichannel sequencing and cadence design, channel orchestration, follow-up and
+break-up structure.
+
+Content collected:
+- LinkedIn post saved in [research/linkedin-posts/mike-gallardo/multichannel-sequence-structure.md](linkedin-posts/mike-gallardo/multichannel-sequence-structure.md)
+
+## Candidates considered but not included
+
+A record of practitioners reviewed and left out, so the filter is visible. In
+almost every case the person was credible, but their best recent piece overlapped
+a layer the set already covers, or it did not meet the recency and substance bar.
+Coverage over numbers: a tenth voice that repeats an existing one does not help a
+real playbook.
+
+- John Barrows — overlaps Kevin Hopp's phone layer.
+- David Priemer — overlaps Jen Allen-Knuth's discovery and qualification layer.
+- Mike Groeneveld — overlaps Jen Allen-Knuth's discovery layer (SPIN critique).
+- Samantha McKenna — overlaps Laura Erdem's LinkedIn and social selling layer.
+- Olga Bondareva — overlaps Laura Erdem's LinkedIn and social selling layer.
+- Austin Hughes — overlaps Anthony Natoli's signal layer, and the piece was about a
+  year old, outside the recency window.
+- Leslie Venetz — credible, but the recent content reviewed was principle-level
+  rather than the step-by-step substance the set looks for, and the stronger pieces
+  were too old to justify overriding the recency rule.
+- Eric Nowoslawski — high-volume sending (millions of emails a month), off the
+  quality-first thesis; Nick Abraham already serves as the single honest
+  high-volume counterpoint.

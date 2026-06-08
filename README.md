@@ -67,16 +67,18 @@ The goal was to find genuine practitioners (people who actually run outbound, no
 
 ### Experts collected so far
 
-Still in progress. I add someone only after I've reviewed their actual content, and only when they cover a part of the pipeline the others don't already cover, so the set doesn't repeat the same advice. That filter matters more to me than hitting a round number, so the count grows slowly. It currently stands at 8, each owning a distinct layer: outbound systems, cold email, deliverability, copywriting, the phone, LinkedIn and social selling, discovery and qualification, and signal-based prospecting. I keep adding only when a genuinely different layer turns up.
+I add someone only after I've reviewed their actual content, and only when they cover a part of the pipeline the others don't already cover, so the set doesn't repeat the same advice. That filter matters more to me than hitting a round number, so the set grew slowly. It currently stands at 10, each owning a distinct layer: outbound systems, precision list-building, signal-based prospecting, multichannel sequencing, cold email, the phone, LinkedIn and social selling, copywriting, deliverability, and discovery and qualification. I only added someone when a genuinely different layer turned up, and the practitioners I reviewed but left out are recorded in research/sources.md under "Candidates considered but not included" so the filter is visible.
 
 1. Mark Colgan: outbound systems, account selection, AI-assisted research
-2. Jason Bay: cold email frameworks and outbound execution
-3. Nick Abraham: deliverability and sending infrastructure (agency, high-volume angle)
-4. Josh Braun: cold email messaging and copywriting, quality-first
-5. Kevin Hopp: cold calling and the phone channel, permission-based openers
-6. Laura Erdem: LinkedIn and social selling tied to B2B SaaS pipeline
-7. Jen Allen-Knuth: discovery and qualification, cost of inaction
-8. Anthony Natoli: signal-based prospecting, turning a signal into real context
+2. Jan Brochwicz: precision list-building, the ICP matrix and segmentation
+3. Anthony Natoli: signal-based prospecting, turning a signal into real context
+4. Mike Gallardo: multichannel sequencing, fitting email, phone, and social into one cadence
+5. Jason Bay: cold email frameworks and outbound execution
+6. Kevin Hopp: cold calling and the phone channel, permission-based openers
+7. Laura Erdem: LinkedIn and social selling tied to B2B SaaS pipeline
+8. Josh Braun: cold email messaging and copywriting, quality-first
+9. Nick Abraham: deliverability and sending infrastructure (agency, high-volume angle)
+10. Jen Allen-Knuth: discovery and qualification, cost of inaction
 
 ### How I collected the content
 
