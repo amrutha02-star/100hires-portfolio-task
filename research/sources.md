@@ -141,3 +141,34 @@ LinkedIn and social selling, signal-based outreach timing, warm outbound.
 
 Content collected:
 - YouTube transcript saved in [research/youtube-transcripts/laura-erdem/social-selling-5m-no-cold-email.md](youtube-transcripts/laura-erdem/social-selling-5m-no-cold-email.md)
+
+### Jen Allen-Knuth
+
+Main links:
+- LinkedIn: https://www.linkedin.com/in/demandjen1
+
+Date checked:
+June 2026
+
+Brief annotation:
+Jen Allen-Knuth is relevant for discovery and qualification, the part of the
+pipeline that turns a reply into a real opportunity. She carried a quota in
+enterprise B2B sales for over 15 years and now runs DemandJen, so this is a real
+practitioner view. Two posts reviewed, both on cost of inaction (COI). The first
+argues COI is not the "cost of doing nothing", because if it is a real problem
+the business is already doing something about it, just often on flawed or
+outdated assumptions, so done well COI is an empathetic, problem-first motion,
+not a gotcha. The second explains COI is best used to open a deal, not close one:
+of the two decisions a buyer makes (is this problem worth solving now, and are
+you the right partner to solve it), COI addresses the first by exposing a problem
+with the status quo a prospect believes is "good enough", which is exactly the
+job of outbound. This is a quality-first take on discovery that fits the rest of
+the set, and it covers a part of the pipeline none of the other experts do.
+
+Relevant part of the pipeline:
+Discovery and qualification, cost of inaction, problem-first conversations,
+disqualifying deals that are not real.
+
+Content collected:
+- LinkedIn post saved in [research/linkedin-posts/jen-allen-knuth/coi-not-cost-of-doing-nothing.md](linkedin-posts/jen-allen-knuth/coi-not-cost-of-doing-nothing.md)
+- LinkedIn post saved in [research/linkedin-posts/jen-allen-knuth/coi-opens-deals-not-closes.md](linkedin-posts/jen-allen-knuth/coi-opens-deals-not-closes.md)
