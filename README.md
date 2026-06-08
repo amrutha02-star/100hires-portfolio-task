@@ -88,7 +88,7 @@ LinkedIn posts: LinkedIn blocks automated scraping, so I collected posts manuall
 
 A few choices shaped the project, and I want to be open about why I made them.
 
-- Recent over famous. Alex asked for recent posts, so when one of Josh Braun's videos turned out to be from late 2023, I swapped it for a 2024 one on the same topic. Someone being well known is not enough if the actual post or video is old.
+- Recent over famous. Alex asked for recent posts. One of Josh Braun's videos turned out to be from late 2023, so I swapped it for a 2024 one on the same topic, then dropped that one too once I checked the date and saw it was still about two years old. I kept his recent LinkedIn posts instead. Someone being well known is not enough if the actual post or video is old.
 - I kept the honest bits in. Nick Abraham works from a high-volume agency side, which is different from the careful, low-volume style most of the others teach. Instead of hiding that, I wrote it into his notes. I want the set to show a real range of views, not pretend everyone agrees.
 - Coverage over numbers. I add experts one at a time, and only when they cover a part of the pipeline the others don't already cover (strategy, frameworks, deliverability, copywriting, account targeting). Five people who each say something different help more for a real playbook than ten who repeat each other.
 - Cleaning up transcripts without changing the words. Some YouTube captions come with no punctuation, so a raw transcript reads as one giant block. I had the tool split those into paragraphs based on the timing of the captions. It only adds breaks to make it readable, it never changes the actual words, so the source stays true to what was said.

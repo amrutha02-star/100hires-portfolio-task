@@ -102,7 +102,6 @@ Cold email messaging and copywriting, follow-up, response rates.
 Content collected:
 - LinkedIn post saved in [research/linkedin-posts/josh-braun/stay-useful-follow-up.md](linkedin-posts/josh-braun/stay-useful-follow-up.md)
 - LinkedIn post saved in [research/linkedin-posts/josh-braun/neutral-questions-open-doors.md](linkedin-posts/josh-braun/neutral-questions-open-doors.md)
-- YouTube transcript saved in [research/youtube-transcripts/josh-braun/overcome-prospect-resistance-4t.md](youtube-transcripts/josh-braun/overcome-prospect-resistance-4t.md)
 
 ### Kevin Hopp
 
