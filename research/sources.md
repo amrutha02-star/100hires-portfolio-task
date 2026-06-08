@@ -25,3 +25,21 @@ Account selection, outbound channels, cold calling, AI-assisted research, data q
 
 Content collected:
 - LinkedIn post saved in research/linkedin-posts/mark-colgan/outbound-best-practices.md
+
+### Jason Bay
+
+Main links:
+- LinkedIn: https://www.linkedin.com/in/jasondbay/
+- YouTube: https://www.youtube.com/@jasondbay
+
+Date checked:
+June 2026
+
+Brief annotation:
+Jason Bay is relevant for cold email and outbound execution. The video selected for transcript collection is about analyzing 85M+ cold emails to understand what is working in 2025.
+
+Relevant part of the pipeline:
+Cold email, outbound process, follow-up, booking meetings.
+
+Content collected:
+- YouTube transcript saved in research/youtube-transcripts/jason-bay/cold-email-85m-2025.md
