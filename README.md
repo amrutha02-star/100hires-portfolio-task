@@ -67,7 +67,7 @@ The goal was to find genuine practitioners (people who actually run outbound, no
 
 ### Experts collected so far
 
-Still in progress, working toward 10, one at a time. I add someone only after I've reviewed their actual content, and I try to make each person cover a different part of the pipeline so the set doesn't repeat the same advice.
+Still in progress. I add someone only after I've reviewed their actual content, and only when they cover a part of the pipeline the others don't already cover, so the set doesn't repeat the same advice. That filter matters more to me than hitting a round number, so the count grows slowly. It currently stands at 8, each owning a distinct layer: outbound systems, cold email, deliverability, copywriting, the phone, LinkedIn and social selling, discovery and qualification, and signal-based prospecting. I keep adding only when a genuinely different layer turns up.
 
 1. Mark Colgan: outbound systems, account selection, AI-assisted research
 2. Jason Bay: cold email frameworks and outbound execution
