@@ -85,3 +85,39 @@ Source: [Petr Kaliuzhny on LinkedIn, 19 May 2026](https://www.linkedin.com/posts
 - Using industry + company size alone to build the list.
 - Treating a raw signal as a reason to message.
 - Sending a sequence I haven't tested against real accounts on the list.
+
+## Where experts disagree
+
+The 10 experts I researched don't agree on everything. Here are three real disagreements from their material, and where I land on each.
+
+### Disagreement 1: Scale outbound through infrastructure and offer, or through signal and manual effort
+
+**What Nick recommends.** Nick runs a lead-gen agency and manages 144,000+ email accounts. His approach is built around infrastructure and offer, not personalization. His words: "instead of trying to figure out the 10-step Clay workflow to create the best personalization in the world, figure out how to make your offer better... personalization can help a weak offer slightly perform better, but it still will be the reason that your campaign scales." His playbook: real Google or Microsoft accounts, 2-week warm-up minimum, rotate infrastructure monthly, use spin tax on copy, validate every list. (source: [Nick Abraham on YouTube, ~March 2026](https://www.youtube.com/watch?v=h2j0gFz9RH4))
+
+**What Anthony recommends.** Anthony's view is the opposite. He rejects generic signal-following as a failure mode: "Prospects have built mental spam filters and they spot the laziness in two seconds." He argues that signal-based prospecting works "when done correctly.. But it requires a human and some manual effort." Every contact is worked individually, with the signal connected to the specific problem it implies. (source: [Anthony Natoli on LinkedIn, 7 May 2026](https://www.linkedin.com/posts/anthony-natoli_outbound-is-not-dead-most-people-are-just-activity-7458177020452192256-avci))
+
+**Which side I take.** Anthony's, for the audience this playbook is written for. A 5 to 30-person B2B SaaS team doesn't have the resources to build 144,000 inboxes or fund an agency-grade infrastructure setup. Nick's approach is real and works at agency scale, but it's the wrong toolset for a small team. For small teams, one carefully researched account with a specific problem angle produces more meetings than 500 mass emails. That's why my playbook prioritizes list quality over volume.
+
+### Disagreement 2: Use cold email as an entry point, or wait for a signal before reaching out
+
+**What Jason recommends.** Jason's whole body of work assumes cold email is the primary channel for pipeline creation. His analysis of 85 million-plus cold emails is about how to make cold email work in 2025 through better copy, sequences, and AI-assisted execution. (source: [Jason Bay on YouTube, ~August 2025](https://www.youtube.com/watch?v=yjOG_QOJgII))
+
+**What Laura recommends.** Laura built roughly $5 million in revenue for Dreamdata without sending purely cold emails. Her approach: build audience through consistent LinkedIn content, use IP-to-company lookup to see which target accounts visit the website, then reach out only after the signal appears. Asked directly whether she does cold outreach, her answer: "It's not entirely cold. It's not like Canada cold." (source: [Laura Erdem on YouTube, 27 January 2026](https://www.youtube.com/watch?v=JydQ20uo9Y8))
+
+**Which side I take.** Both, but staggered. For a very early team with zero brand presence, Laura's approach is slow: it requires a founder or team member who can post consistently on LinkedIn for months before signals appear. Jason's cold email approach is faster to first meeting. My recommendation: start with cold email for immediate pipeline while building LinkedIn presence in parallel. Shift toward Laura's signal-only model over 12 to 18 months as brand awareness grows.
+
+### Disagreement 3: How to open a cold message, sharp statement or neutral question
+
+**What Petr recommends.** Petr's fix for bad openers is to make the statement sharper and more specific to the reader. His example: "If you must go generic, at least pick something sharp and often true, like 'outbound software companies are usually the cobbler with no shoes.'" A specific line about the reader's industry that lands because it's true. (source: [Petr Kaliuzhny on LinkedIn, 19 May 2026](https://www.linkedin.com/posts/kaliuzhnypeter_heres-what-people-who-sell-outbound-for-activity-7462411999054921728-5Dha))
+
+**What Josh recommends.** Josh goes further. He thinks statements, even sharp ones, still push a conclusion at the prospect. The prospect either agrees or feels judged. A neutral question lets them tell you what the problem is. His example:
+
+Bad (closes the door):
+> "I was looking at your site and noticed you're not capturing email addresses. You're losing leads every day. That's what we help with."
+
+Good (opens the door):
+> "I didn't see an email signup on your site. How are you staying in touch with visitors who aren't ready to buy?"
+
+Josh's reasoning: "The first delivers a conclusion. The second invites a conversation... The moment someone feels judged, they close. The moment they feel understood, they open." (source: [Josh Braun on LinkedIn, 5 June 2026](https://www.linkedin.com/posts/josh-braun_people-want-to-feel-capable-so-when-a-message-activity-7468615241896083457-_NN8))
+
+**Which side I take.** Josh's, for cold openers. Petr is right that a sharp statement can land, but it needs you to really know the reader's world. Most cold outreach doesn't get that right. A neutral question is safer because it doesn't ask you to be right about the pain, just curious about it. Once a conversation starts, Petr's sharp-statement style can come in. For the opening message, I go with Josh.
