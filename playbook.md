@@ -121,3 +121,29 @@ Good (opens the door):
 Josh's reasoning: "The first delivers a conclusion. The second invites a conversation... The moment someone feels judged, they close. The moment they feel understood, they open." (source: [Josh Braun on LinkedIn, 5 June 2026](https://www.linkedin.com/posts/josh-braun_people-want-to-feel-capable-so-when-a-message-activity-7468615241896083457-_NN8))
 
 **Which side I take.** Josh's, for cold openers. Petr is right that a sharp statement can land, but it needs you to really know the reader's world. Most cold outreach doesn't get that right. A neutral question is safer because it doesn't ask you to be right about the pain, just curious about it. Once a conversation starts, Petr's sharp-statement style can come in. For the opening message, I go with Josh.
+
+## What I rejected and why
+
+### Rejection 1: Nick's agency-scale infrastructure moves
+
+Nick manages 144,000+ email accounts. Almost none of his advice was written with small teams in mind. Two specific things I skipped.
+
+**Backup non-branded domains.** Nick keeps a stack of "non-branded domains" ready to swap in when a client's main setup breaks. Great if you're an agency. If I run one product with one branded domain, backups don't help me. They just add moving parts. I'd rather keep the one domain healthy than manage a fleet.
+
+**Sending on weekends and holidays.** Nick says keep sending. Some of his best lead days are Saturdays and holidays. That's true for anonymous agency sends. But if I'm founder-led and my name is on the domain, showing up in someone's inbox on Sunday morning is not the signal I want to send. Weekdays only.
+
+(source: [Nick Abraham on YouTube, ~March 2026](https://www.youtube.com/watch?v=h2j0gFz9RH4))
+
+### Rejection 2: Jen's Cost of Inaction as a cold-outreach opener
+
+Jen's COI framework is real. It just doesn't work in a cold email.
+
+COI is a conversation. You surface that the prospect's current way of doing something is based on old assumptions. You help them see what changed. Both of those need back-and-forth.
+
+Cold email is one message to a stranger. I don't know what they're doing about the problem, so I can't collaborate on it. The framework needs information I won't have until they reply.
+
+If I try to shortcut it and send a COI line in a cold email, it turns into the exact thing Jen tells us not to send: "what would it cost you to keep doing nothing?" She calls this insulting because the prospect IS doing something. I just haven't been told what yet. In cold outreach, I never have that context in advance. So the only version of COI I can send is the crude one Jen already rejects.
+
+COI belongs after the prospect replies. Not before.
+
+(sources: [Jen Allen-Knuth on LinkedIn, 23 December 2025](https://www.linkedin.com/posts/demandjen1_cost-of-inaction-coi-isnt-best-used-to-activity-7409260573252841472-Jr0q) and [6 March 2026](https://www.linkedin.com/posts/demandjen1_ffs-cost-of-inaction-coi-is-not-the-cost-activity-7435701620342005760-z3bO))
