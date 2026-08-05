@@ -12,9 +12,9 @@ Small B2B SaaS teams, roughly 5 to 30 people, trying to build a cold outreach pi
 
 Two things need to be in place before anything else works.
 
-**A real ICP.** Jan Brochwicz's point: most teams write down "B2B SaaS, 100 to 500 employees, US-based" and think they have an ICP. That's a filter, not an ICP. A real ICP has six layers (I break these down in Step 1). If you skip this, no message will land.
+**A real ICP.** Jan Brochwicz's point: most teams write down "B2B SaaS, 100 to 500 employees, US-based" and think they have an ICP. That's a filter, not an ICP. A real ICP has six layers (I break these down in Step 1). If you skip this, no message will land. (source: [Jan Brochwicz on LinkedIn, 30 March 2026](https://www.linkedin.com/posts/janbrochwicz_if-your-icp-is-b2b-saas-100-500-employees-activity-7444305826334277632-oQpZ))
 
-**Sound email infrastructure.** Nick Abraham's baseline: buy real Google or Microsoft accounts (not SMTP), warm them for at least two weeks, and rotate them monthly. If your emails go to spam, nothing else matters.
+**Sound email infrastructure.** Nick Abraham's baseline: buy real Google or Microsoft accounts (not SMTP), warm them for at least two weeks, and rotate them monthly. If your emails go to spam, nothing else matters. (source: [Nick Abraham on YouTube, ~March 2026](https://www.youtube.com/watch?v=h2j0gFz9RH4))
 
 ## Step 1: Who to reach out to
 
@@ -195,6 +195,12 @@ My "target matters more than copy" original idea is based on my own experience r
 
 **Non-US and non-English markets are under-addressed.**
 All ten of my experts sell primarily to North American English-speaking buyers. If the target market is different, the playbook's assumptions about email etiquette, response times, and message tone may need adjustment. I didn't build that adjustment in.
+
+**Kevin Hopp's cold calling material isn't used.**
+Kevin is one of my ten experts, but he doesn't appear in the playbook. His domain is cold calling, and I built the playbook around email as the primary channel. Cold calling could be its own playbook and probably should be for a team that has phone as a real channel. Not addressing it here means the playbook is silent on a channel some readers might rely on.
+
+**The Nick criticism might look unbalanced.**
+Nick appears critically in three sections (Where experts disagree, What I rejected, and Who I would NOT recommend). I kept him in the ten because he was the only source covering deliverability and sending infrastructure at any depth. If I could rebuild the set, I would look for a small-team-focused deliverability voice instead. But for the research I had, removing Nick would have created a whole missing layer.
 
 ## Who I would NOT recommend following
 
