@@ -86,6 +86,8 @@ Source: [Petr Kaliuzhny on LinkedIn, 19 May 2026](https://www.linkedin.com/posts
 - Treating a raw signal as a reason to message.
 - Sending a sequence I haven't tested against real accounts on the list.
 
+That's Step 1 as deep as I take it. Message writing, sequences, follow-up, and measurement are not covered in this playbook. I explain why in the Weaknesses section below.
+
 ## Where experts disagree
 
 The 10 experts I researched don't agree on everything. Here are three real disagreements from their material, and where I land on each.
