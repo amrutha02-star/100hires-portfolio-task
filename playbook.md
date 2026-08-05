@@ -147,3 +147,29 @@ If I try to shortcut it and send a COI line in a cold email, it turns into the e
 COI belongs after the prospect replies. Not before.
 
 (sources: [Jen Allen-Knuth on LinkedIn, 23 December 2025](https://www.linkedin.com/posts/demandjen1_cost-of-inaction-coi-isnt-best-used-to-activity-7409260573252841472-Jr0q) and [6 March 2026](https://www.linkedin.com/posts/demandjen1_ffs-cost-of-inaction-coi-is-not-the-cost-activity-7435701620342005760-z3bO))
+
+## My original ideas
+
+### Target matters more than copy. Copy still counts.
+
+I read a lot of the ten experts on how to write a good cold email. Josh Braun on neutral questions. Petr Kaliuzhny on avoiding fake personalization. Anthony Natoli on not being lazy. I agreed with all of them. Writing a good email felt like the main thing that could go wrong or right in cold outreach.
+
+Then I actually ran a cold email campaign for a B2B SaaS product. The email we sent was not written the way these experts recommend. It was mostly about our own product. Not personalized. I expected zero replies because it broke almost every rule I had been reading about.
+
+We got a few replies. And the people who booked meetings from those emails were real buyers, not people wasting our time. Some of them turned into meaningful clients.
+
+That surprised me.
+
+**What I take from this.**
+
+The email wasn't good. The buyers still responded. Which means the copy wasn't the main reason those replies came in. The main reason was that we happened to reach people who actually had the problem our product solves.
+
+So the target matters more than I had thought. If the buyer has the exact problem and is looking to solve it, they will forgive a mediocre message. If the buyer doesn't have the problem, no amount of clever copy will save the send.
+
+**I don't want to overclaim this.**
+
+I also can't tell how many replies we lost because the message was mediocre. Maybe with a better message we would have had ten times as many meetings. So the honest version of what I learned isn't "copy doesn't matter." It's more like: research the target well. Then write the best message you can on top of that research. Both matter. Target-picking just does more work than most experts give it credit for.
+
+**Where I could be wrong.**
+
+This is from one product. Our product solves a problem that's easy for buyers to see. For companies whose product solves less obvious problems, message quality might matter more.
