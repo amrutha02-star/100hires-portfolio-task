@@ -2,7 +2,7 @@
 
 Author: Jen Allen-Knuth
 Source: https://www.linkedin.com/posts/demandjen1_ffs-cost-of-inaction-coi-is-not-the-cost-activity-7435701620342005760-z3bO
-Published: approx. March 2026 (about three months old when checked)
+Published: March 6, 2026 (about three months old when checked)
 Date checked: 8 and 9 June 2026 (IST)
 
 ---

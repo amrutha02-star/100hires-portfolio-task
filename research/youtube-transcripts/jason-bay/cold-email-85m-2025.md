@@ -1,7 +1,7 @@
 # [Playbook] Cold Email: Analyzing 85M+ cold emails to find what's working in 2025
 
 Source: https://www.youtube.com/watch?v=yjOG_QOJgII
-Published: approx. August 2025 (about ten months old when checked, the oldest piece in the set but still within the recency window)
+Published: August 2025 (about ten months old when checked; this is the only pre-2026 source in the set and the oldest piece by some margin, kept on purpose because the underlying study of 85M+ emails is more substantial than any 2026 cold-email piece I found, but flagged here so the age is not hidden)
 Transcript fetched: 2026-06-08
 Caption segments: 1542
 

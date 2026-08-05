@@ -2,7 +2,7 @@
 
 Author: Josh Braun
 Source: https://www.linkedin.com/posts/josh-braun_people-want-to-feel-capable-so-when-a-message-activity-7468615241896083457-_NN8
-Published: approx. June 2026 (a few days old when checked)
+Published: June 5, 2026 (a few days old when checked)
 Date checked: 8 and 9 June 2026 (IST)
 
 ---

@@ -2,7 +2,7 @@
 
 Author: Jen Allen-Knuth
 Source: https://www.linkedin.com/posts/demandjen1_cost-of-inaction-coi-isnt-best-used-to-activity-7409260573252841472-Jr0q
-Published: approx. January 2026 (about five months old when checked)
+Published: December 23, 2025 (about five and a half months old when checked)
 Date checked: 8 and 9 June 2026 (IST)
 
 ---
