@@ -173,3 +173,25 @@ I also can't tell how many replies we lost because the message was mediocre. May
 **Where I could be wrong.**
 
 This is from one product. Our product solves a problem that's easy for buyers to see. For companies whose product solves less obvious problems, message quality might matter more.
+
+## Weaknesses of this playbook
+
+I want to be honest about what this playbook doesn't do well.
+
+**It's not a complete pipeline. It's the first step done deeply.**
+The playbook is heavy on "who to reach out to" and light on everything after that. Message writing, sequence design, sending infrastructure, follow-up cadence, reply handling, and measurement all barely appear. That was a deliberate choice, partly because of time and partly because target-picking is the highest-leverage step. But a reader looking for a full ICP-to-booked-meeting playbook will find this one thin in the middle and end.
+
+**The advice assumes resources most small teams don't have.**
+Jan's six-layer ICP matrix takes real time to build. Mark says "spend a full day on the list." Petr says "audit the sequence against three accounts before sending." All of these are correct. Small teams often won't actually do them because they don't have the hours. Which means my playbook might be aspirational for the audience I wrote it for.
+
+**Some of the tools cost money.**
+Apollo, Clay, BuiltWith, Freckle.io. All mentioned as if they're standard. They are paid tools. A truly small team with no budget can't use them. The playbook doesn't offer free alternatives.
+
+**The neutral-opener approach needs something to observe.**
+Josh Braun's approach depends on noticing something specific about the prospect ("I didn't see an email signup on your site..."). This assumes the prospect has an observable public presence. For accounts where the prospect has very little public information, this style of opener falls apart.
+
+**One product's experience is not proof.**
+My "target matters more than copy" original idea is based on my own experience running cold outreach for one type of product. I can't say it holds for all products. I flagged this in that section too.
+
+**Non-US and non-English markets are under-addressed.**
+All ten of my experts sell primarily to North American English-speaking buyers. If the target market is different, the playbook's assumptions about email etiquette, response times, and message tone may need adjustment. I didn't build that adjustment in.
