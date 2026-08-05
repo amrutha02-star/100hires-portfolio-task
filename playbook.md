@@ -195,3 +195,27 @@ My "target matters more than copy" original idea is based on my own experience r
 
 **Non-US and non-English markets are under-addressed.**
 All ten of my experts sell primarily to North American English-speaking buyers. If the target market is different, the playbook's assumptions about email etiquette, response times, and message tone may need adjustment. I didn't build that adjustment in.
+
+## Who I would NOT recommend following
+
+### Nick Abraham
+
+I want to be clear up front: Nick knows what he is doing. He runs a lead-gen agency and manages 144,000+ email accounts. His deliverability knowledge is real. If you are building a mass-outbound operation at agency scale, he is a legitimate resource.
+
+But he is not the right teacher for the audience this playbook is written for.
+
+Here is why.
+
+**Most of his advice is for a scale I don't have.**
+Nick's whole approach is about managing 100,000+ inboxes, rotating infrastructure monthly, running spin tax across hundreds of variants, and keeping backup domains ready to swap. Almost none of that applies to a small B2B SaaS team sending a few hundred emails a month. If a founder-led team follows Nick's playbook literally, they spend money on infrastructure they don't need to manage a problem they don't have.
+
+**I rejected two of his ideas in this playbook already.**
+His backup domain strategy and his weekends and holidays sending advice both make sense at agency scale, but they are actively wrong for a small team with a branded domain. Someone who takes those two ideas at face value and applies them at small-team scale ends up looking like a spam operation without gaining anything.
+
+**His content mixes teaching with selling.**
+Nick pitches his agency (Lee), his tool subscriptions (Hypertide, SmartLead), and his own products in the same video where he shares deliverability advice. That is normal for a founder. But it means his advice tilts toward what he sells. Someone new to cold outreach who follows him closely may end up buying tools they don't need.
+
+**Who Nick is right for.**
+If you run a lead-gen agency, manage many client campaigns, and operate at the scale where infrastructure decisions actually move revenue, Nick's content is genuinely useful. His deliverability material in particular is well-informed. My recommendation to skip him only applies to the reader of this playbook: a small B2B SaaS team where the founder is close to the outbound.
+
+(source: [Nick Abraham on YouTube, ~March 2026](https://www.youtube.com/watch?v=h2j0gFz9RH4))
