@@ -172,9 +172,35 @@ So the target matters more than I had thought. If the buyer has the exact proble
 
 I also can't tell how many replies we lost because the message was mediocre. Maybe with a better message we would have had ten times as many meetings. So the honest version of what I learned isn't "copy doesn't matter." It's more like: research the target well. Then write the best message you can on top of that research. Both matter. Target-picking just does more work than most experts give it credit for.
 
+**What this means for how to spend your time.**
+
+The default assumption in most outbound advice is that most of your time goes into the message. Better openers, tighter follow-ups, cleaner sequences. My observation flips that. Spend most of your time on the list, then the leftover time on the message. If your current split is 70% message and 30% list, try 30% message and 70% list. If your buyers are right, ordinary messages will still convert. If your buyers are wrong, brilliant messages won't save the send.
+
 **Where I could be wrong.**
 
 This is from one product. Our product solves a problem that's easy for buyers to see. For companies whose product solves less obvious problems, message quality might matter more.
+
+### Coordinated multi-channel touches on one prospect
+
+None of my ten experts describe coordinating email, LinkedIn view, LinkedIn message, and phone call on the same prospect within a single week. Each of them treats their channel as their main channel.
+
+- Nick, Jason, Josh, and Petr focus on email.
+- Kevin focuses on cold calls.
+- Laura focuses on LinkedIn content and signals.
+
+Mark Colgan comes closest. He notes that email alone is no longer enough, and that top teams get 50 to 70% of meetings from cold calls and 10 to 15% reply rates from LinkedIn voice notes. But even Mark treats each channel as its own metric, not as part of a coordinated multi-touch on the same prospect.
+
+**My observation.**
+
+What earns a reply from a specific prospect is often not any single channel doing the work. It's the stack. A cold email in the inbox on Tuesday. Same-day LinkedIn profile view. Wednesday LinkedIn connection request. Thursday or Friday cold call if no reply. By touch three or four, the prospect has seen your name in three or four different places within a week. That pattern of familiarity is what earns the reply, not any single message.
+
+**Why this could work.**
+
+Familiarity from repeated exposure is a known effect in marketing, and it applies to outbound too. A single email is easy to dismiss. The same name showing up as an email sender, a LinkedIn viewer, and a caller within a few days is harder to ignore. Not annoying if the messages are relevant. Not aggressive if the pace is spaced out. Just present.
+
+**Where I could be wrong.**
+
+I don't have direct data on this. It's an observation from watching outbound work and reading the ten sources' scattered coverage of multiple channels. It could be that top teams already do this and just don't describe it as a stack. Or stacking might work less well than deeper sequences on any single channel. I can't prove which direction the effect goes.
 
 ## Weaknesses of this playbook
 
