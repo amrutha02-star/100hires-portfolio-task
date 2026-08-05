@@ -1,6 +1,6 @@
 # 100Hires Portfolio Task
 
-This repo is my portfolio project for the 100Hires Junior Growth Marketing Specialist application. It has two stages: a tool setup task (stage 1) and a research project (stage 2). Both are documented below.
+This repo is my portfolio project for the 100Hires Junior Growth Marketing Specialist application. It has three stages: a tool setup task (stage 1), a research project (stage 2), and a playbook based on that research (stage 3). All three are documented below.
 
 ## Stage 1: Setup
 
@@ -103,3 +103,29 @@ A few choices shaped the project, and I want to be open about why I made them.
 ### A note on AI use
 
 Same as stage 1, I used Claude as an assistant to research, fetch transcripts, and draft notes. I reviewed and approved every expert and every piece of content myself, and I verified the LinkedIn post text against the originals.
+
+## Stage 3: Playbook
+
+For stage 3 I built a playbook based on the research collected in stage 2. Same topic: cold outreach pipeline for B2B SaaS. The playbook lives in the repo as `playbook.md`.
+
+### What's in it
+
+The six mandatory sections Alex asked for, plus a target-selection section based on the four experts who cover that layer best:
+
+- Who this is for and prerequisites
+- Step 1: Who to reach out to (Mark, Jan, Anthony, Petr)
+- Where experts disagree (three disagreements with the side I take on each)
+- What I rejected and why (two ideas from the sources I chose not to include)
+- My original ideas (one observation from my own cold outreach experience)
+- Weaknesses of this playbook (honest self-critique)
+- Who I would NOT recommend following (one of the ten experts)
+
+Every recommendation cites its source with author name, a link to the specific post or video, and the date.
+
+### A note on scope
+
+The playbook goes deep on target-selection and stays light on later pipeline steps like message writing, sending infrastructure, and follow-up cadence. That was a deliberate choice, because target-picking is the highest-leverage step and the rest could not have been covered with real depth in the time I had. The trade-off is called out in the Weaknesses section of the playbook itself.
+
+### A note on AI use
+
+Same as stages 1 and 2. I used Claude as a drafting assistant. Every disagreement I chose, every rejection, my one original idea, and the not-recommended expert were my calls. I verified every citation against the local source files before committing.

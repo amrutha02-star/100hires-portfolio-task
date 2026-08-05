@@ -45,7 +45,7 @@ Jan runs an outbound agency and builds an ICP matrix for every client before wri
 
 The tools he names: Apollo (firmographics), BuiltWith (technographics), Clay (signals), Freckle.io (native HubSpot integration).
 
-What I take from Jan: don't just filter. Layer. And treat awareness level as its own axis, because it changes the whole message.
+What I take from Jan: don't just filter. Layer. And treat awareness level separately, because it changes the whole message.
 
 Source: [Jan Brochwicz on LinkedIn, 30 March 2026](https://www.linkedin.com/posts/janbrochwicz_if-your-icp-is-b2b-saas-100-500-employees-activity-7444305826334277632-oQpZ)
 
@@ -55,7 +55,7 @@ Anthony pushes further than Jan. Even when you have signals in your list, most p
 
 > "A funding round is not a reason to reach out. A new hire is not a reason to reach out. A product launch is not a reason to reach out."
 
-His point: the signal itself is not the reason. The problem behind the signal is. A Series B raise doesn't matter to you. The operational chaos at Series B does.
+His point: the signal itself is not the reason. The problem behind the signal is. A Series B raise doesn't matter to you. What matters is the specific problems that come at that stage.
 
 He's also blunt on one specific misuse: "Someone posted on LinkedIn. NOT A SIGNAL."
 
@@ -96,7 +96,7 @@ The 10 experts I researched don't agree on everything. Here are three real disag
 
 **What Anthony recommends.** Anthony's view is the opposite. He rejects generic signal-following as a failure mode: "Prospects have built mental spam filters and they spot the laziness in two seconds." He argues that signal-based prospecting works "when done correctly.. But it requires a human and some manual effort." Every contact is worked individually, with the signal connected to the specific problem it implies. (source: [Anthony Natoli on LinkedIn, 7 May 2026](https://www.linkedin.com/posts/anthony-natoli_outbound-is-not-dead-most-people-are-just-activity-7458177020452192256-avci))
 
-**Which side I take.** Anthony's, for the audience this playbook is written for. A 5 to 30-person B2B SaaS team doesn't have the resources to build 144,000 inboxes or fund an agency-grade infrastructure setup. Nick's approach is real and works at agency scale, but it's the wrong toolset for a small team. For small teams, one carefully researched account with a specific problem angle produces more meetings than 500 mass emails. That's why my playbook prioritizes list quality over volume.
+**Which side I take.** Anthony's, for the audience this playbook is written for. A 5 to 30-person B2B SaaS team doesn't have the resources to build 144,000 inboxes or fund an agency-grade infrastructure setup. Nick's approach is real and works at agency scale, but it's the wrong toolset for a small team. For small teams, one carefully researched account with a specific problem angle produces more meetings than hundreds of mass emails. That's why my playbook prioritizes list quality over volume.
 
 ### Disagreement 2: Use cold email as an entry point, or wait for a signal before reaching out
 
@@ -152,7 +152,7 @@ COI belongs after the prospect replies. Not before.
 
 ### Target matters more than copy. Copy still counts.
 
-I read a lot of the ten experts on how to write a good cold email. Josh Braun on neutral questions. Petr Kaliuzhny on avoiding fake personalization. Anthony Natoli on not being lazy. I agreed with all of them. Writing a good email felt like the main thing that could go wrong or right in cold outreach.
+I read a lot of the ten experts on how to write a good cold email. Josh on neutral questions. Petr on avoiding fake personalization. Anthony on not being lazy. I agreed with all of them. Writing a good email felt like the main thing that could go wrong or right in cold outreach.
 
 Then I actually ran a cold email campaign for a B2B SaaS product. The email we sent was not written the way these experts recommend. It was mostly about our own product. Not personalized. I expected zero replies because it broke almost every rule I had been reading about.
 
@@ -213,7 +213,7 @@ Nick's whole approach is about managing 100,000+ inboxes, rotating infrastructur
 His backup domain strategy and his weekends and holidays sending advice both make sense at agency scale, but they are actively wrong for a small team with a branded domain. Someone who takes those two ideas at face value and applies them at small-team scale ends up looking like a spam operation without gaining anything.
 
 **His content mixes teaching with selling.**
-Nick pitches his agency (Lee), his tool subscriptions (Hypertide, SmartLead), and his own products in the same video where he shares deliverability advice. That is normal for a founder. But it means his advice tilts toward what he sells. Someone new to cold outreach who follows him closely may end up buying tools they don't need.
+Nick pitches his agency (Legion), his tool subscriptions (Hypertide, SmartLead), and his own products in the same video where he shares deliverability advice. That is normal for a founder. But it means his advice tilts toward what he sells. Someone new to cold outreach who follows him closely may end up buying tools they don't need.
 
 **Who Nick is right for.**
 If you run a lead-gen agency, manage many client campaigns, and operate at the scale where infrastructure decisions actually move revenue, Nick's content is genuinely useful. His deliverability material in particular is well-informed. My recommendation to skip him only applies to the reader of this playbook: a small B2B SaaS team where the founder is close to the outbound.
